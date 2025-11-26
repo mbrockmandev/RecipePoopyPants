@@ -7,6 +7,7 @@
 
 import XCTest
 
+// poopy ui tests setup
 final class RecipePoopyPantsUITests: XCTestCase {
 
     override func setUpWithError() throws {

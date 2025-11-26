@@ -8,6 +8,7 @@
 import XCTest
 @testable import RecipePoopyPants
 
+// click the diamond next to the class identifier to run tests just like in vs code
 final class RecipePoopyPantsTests: XCTestCase {
 
     override func setUpWithError() throws {
